@@ -3,4 +3,7 @@ authors = ["Jacob Homanics"]
 language = "en"
 multilingual = false
 src = "src"
-title = "reputation-and-roles-monorepo-documentation"
+title = "Reputation & Roles Book"
+
+[output.html]
+git-repository-url = "https://github.com/Hotmanics/reputation-and-roles-monorepo-documentation"
