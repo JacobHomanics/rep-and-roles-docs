@@ -4,5 +4,7 @@
 
 # Philosophy
 
-- [Reputation](./philosophy/reputation.md)
-- [Roles](./philosophy/roles.md)
+- [Reputation](./philosophy/reputation/reputation.md)
+    - [Types](./philosophy/reputation/types.md)
+    - [Roles](./philosophy/reputation/roles.md)
+- [Roles](./philosophy/roles/roles.md)
