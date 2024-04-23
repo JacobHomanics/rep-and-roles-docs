@@ -2,7 +2,7 @@
 
 [Introduction](./README.md)
 
-# Philosophy
+# Core Concepts
 
 - [Reputation](./philosophy/reputation/reputation.md)
     - [Types](./philosophy/reputation/types.md)

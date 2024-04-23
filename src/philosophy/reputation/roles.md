@@ -1,5 +1,5 @@
 # Roles
-The smart contract has several optional manager roles (Unrelated to the Roles portion of Reputation & Roles) that the creator can use to fit his specific deployment requirements.
+There are several roles (unrelated to the Roles portion of this project) which have different responsibilities for managing and operating a specific instance of a Reputation system. 
 
 ## Minter
 

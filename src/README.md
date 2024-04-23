@@ -1,10 +1,10 @@
-# Reputation
-Tracks trust between entities.
+# Introduction
 
-# Roles
-Grant authorities and permissions based on tracked trust.
+## Reputation
+Tracks trust in a tangible way for many organizations, businesses, or individuals with regards to another organization, business, or individual.
 
-# Monorepo
+## Roles
+Roles measure Reputation to grant Responsibilities, Permissions, and Authorities.
 
-An all-in-one solution for deploying custom Reputation & Roles smart contracts alongside a functional and customizable frontend that your users can interact with.
- 
+## Reputation & Roles
+By leveraging blockchain technologies and concepts, this can all be done Onchain following the principles of Decentralization and Permissionlessness. With the capability of tailoring an implementation based on a specific entity's needs and requirements for the systems.

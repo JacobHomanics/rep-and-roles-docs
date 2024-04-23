@@ -1,15 +1,26 @@
 # Roles
 
-Roles utilizes Reputation to grant authorities and responsibilities through the use of the Hats Protocol.
+Roles utilizes and measures Reputation to grant Responsibilities, Permissions, and Authorities.
 
-Hats make use of their own ERC1155 tokens which are used to assign roles through Onchain/Offchain means. 
+These are represented through Hats. Hats is an ERC1155-adjacent collection.
 
-The Hats protocol consists of a single tree (The Hats Protocol). Within this tree, are a bunch of branches (organizations, entities, companies), and within those branches are a bunch of leaves (Hat ERC1155 Token). Each leaf (or Hat) contains its own responsibilities, usually within the context of its branch (i.e. organization). Entities can come along and hold (wear) a leaf to be granted a certain role, again within the context of the organization. 
+A hat is an ERC115 Token. A hat contains Responsibilities, Permissions, and Authorities. Entities can wear hats. Hats can be claimed by entities based on certain conditions. 
 
-The Reputatuion & Roles project utilizes the Hats Protocol by each Reputation project having its own branch. Hats are special, because they have something called Eligibility Modules. One module, of particular interest within R&R is the ERC1155 Eligibility Module. This module only allows for users to Claim and continuously Wear Hats only if they maintain a certain threshold of ERC1155 tokens. And what are Reputation Tokens? That's right, ERC1155 Tokens! This means we can properly gate roles behind Hats by using their ERC1155 Eligiblity Module in connjunction with Reputation Tokens! Wonderful.
+A collection of hats is contained under the umbrella of a Top Hat. A Top Hat is simply a way to represent an organization, business, or individual. 
 
-The Reputation & Roles Monorepo project contains a copy of the Hats smart contracts that are present on Testnet/Mainnet. Thus, when we deploy locally we also created a Faux Hats Protocol. Simply for ease of use and improved development flows. However, once your Reputation & Roles project graduates to Testnet/Mainnet, then your project should automatically point to the proper smart contract addresses and implementations.
+All Top Hats are contained under the umbrella of the ERC1155 Collection.
 
-For more info on Hats, then please go to their [Website](https://www.hatsprotocol.xyz/) or visit their [docs](https://docs.hatsprotocol.xyz/) to gain a deeper understanding.
+Reputation & Roles makes use of these capabilities. It allows for us to set up a hat(s) that can only be claimed or worn if an entity holds a certain number of Reputation Tokens.
 
+For more information on Hats and to receive a deeper understanding of the system, then please visit their [Website](https://www.hatsprotocol.xyz/) and/or [docs](https://docs.hatsprotocol.xyz/).
 
+## Examples
+
+### ATX DAO Role System 
+ATX DAO aims to implement several roles: Active Member, Steward, and Warden.
+
+To be an Active Member, someone needs to be wearing the Active Member Hat. To be wearing the Active Member Hat, someone needs to have 100 Reputation Tokens. By wearing the Active Member Hat, you gain the permission to join the DAO's Discord and Telegram Groups.
+
+To be a Steward, someone needs to be wearing the Steward Hat. To be wearing the Steward Hat, someone needs to have 500 Reputation Tokens. By wearing the Steward Hat, you gain the Authority to control the Discord and Telegram Groups as an Administrator.
+
+To be a Warden, someone needs to be wearing the Warden Hat. To be wearing the Warden Hat, someone needs to have 750 Reputation Tokens. By wearing the Warden Hat, you gain the Responsibility of signing transactions on the DAO's multi-sig.
