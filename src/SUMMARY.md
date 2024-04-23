@@ -8,3 +8,7 @@
     - [Types](./philosophy/reputation/types.md)
     - [Roles](./philosophy/reputation/roles.md)
 - [Roles](./philosophy/roles/roles.md)
+
+# Mono Repository
+
+- [Overview](./monorepo/monorepo.md)
