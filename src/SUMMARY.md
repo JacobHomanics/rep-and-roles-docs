@@ -11,4 +11,4 @@
 
 # Starter Kit
 
-- [Overview](./monorepo/monorepo.md)
+- [Overview](./starter-kit/overview.md)

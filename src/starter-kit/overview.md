@@ -1,4 +1,4 @@
-## Starter Kit
+## Overview
 
 An all-in-one repository used to build, test, deploy and interact with Reputation & Roles smart contracts!
 
