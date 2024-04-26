@@ -9,6 +9,6 @@
     - [Roles](./philosophy/reputation/roles.md)
 - [Roles](./philosophy/roles/roles.md)
 
-# Mono Repository
+# Starter Kit
 
 - [Overview](./monorepo/monorepo.md)

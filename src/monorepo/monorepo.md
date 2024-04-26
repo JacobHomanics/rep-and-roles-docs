@@ -1,8 +1,8 @@
-## Mono Repository
+## Starter Kit
 
-The Mono Repository (MonoRepo) consists of several packages used to build, deploy, and interact with instances of Reputation & Roles.
+An all-in-one repository used to build, test, deploy and interact with Reputation & Roles smart contracts!
 
-The MonoRepo was forked from Buidl Guidl's [Scaffold Eth 2](https://scaffoldeth.io/), A modern Dapp framework with NextJS, RainbowKit, Wagmi and Typescript. Which supports Hardhat and Foundry.
+Forked from Buidl Guidl's [Scaffold Eth 2](https://scaffoldeth.io/), A modern Dapp framework with NextJS, RainbowKit, Wagmi and Typescript. Which supports Hardhat and Foundry.
 
 ### Foundry
 The Foundry package makes use of Foundry, a toolkit for developing smart contracts, to develop, test, and deploy Reputation & Hats smart contracts. 
