@@ -6,4 +6,4 @@ src = "src"
 title = "Reputation & Roles Book"
 
 [output.html]
-git-repository-url = "https://github.com/Hotmanics/reputation-and-roles-monorepo-documentation"
+git-repository-url = "https://github.com/Hotmanics/rep-and-roles-docs"
